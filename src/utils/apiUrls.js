@@ -1,4 +1,4 @@
-const DOMAIN = 'http://34.233.120.69';
+const DOMAIN = 'https://backend.gmlwls.shop';
 
 const GET_TASKS_API_URL = `${DOMAIN}/get_tasks`;
 const POST_TASK_API_URL = `${DOMAIN}/post_task`;
